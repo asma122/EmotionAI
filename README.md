@@ -3,7 +3,7 @@ This project is part of a research-oriented internship combining **AI, healthcar
 
 ---
 
-## ⚙️ Technologies & Stack
+## ⚙️ Technologies
 
 The system integrates a **multimodal AI stack** combining deep learning, NLP, computer vision, and full-stack development:
 
